@@ -40,9 +40,9 @@ since: 2016
 ## https://github.com/hexojs/hexo-generator-feed
 
 subnav:
-  Email: "mailto:123@123.com"
-  #新浪微博: "sina weibo"
-  GitHub: "#"
+  Email: "mailto:hanye.zlp@alibaba-inc.com"
+  新浪微博: "http://weibo.com/smartstarzlp"
+  GitHub: "http://github.com/LipperZack"
   #V2EX: "#"
   RSS: "/atom.xml"
   #知乎: "zhihu"
