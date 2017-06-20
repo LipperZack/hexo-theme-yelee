@@ -69,6 +69,9 @@
           title: post.title,
           url: config.url+url_for(post.path),
           }) %>
+    <% } else if (theme.changyan.on) { %>
+        <%- partial('comments/changyan', {
+          }) %>
     <% } else if (theme.youyan.on) { %>
         <%- partial('comments/youyan') %>
     <% } else if (theme.disqus.on) { %>
